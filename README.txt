@@ -11,3 +11,4 @@ competition and will give you a competitive edge. When your supply chain is supp
 can better control operational costs by producing or storing less when demand for your product is lower or more 
 when demand is higher. Data doesn't lie. It removes bias and subjectivity from decision making, allowing you to 
 see where your business truly stands.
+Syed Muhammad Ahmed Hassan Shah
